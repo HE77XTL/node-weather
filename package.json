@@ -1,0 +1,28 @@
+{
+  "name": "weather-he-77",
+  "version": "1.0.5",
+  "description": "命令行 weather",
+  "main": "index.js",
+  "bin": {
+    "weather-2": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HE77XTL/node-weather.git"
+  },
+  "keywords": [
+    "weather"
+  ],
+  "author": "heds",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HE77XTL/node-weather/issues"
+  },
+  "homepage": "https://github.com/HE77XTL/node-weather#readme",
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
+}
